@@ -7,4 +7,5 @@
 * PGS.TS. Lê Đình Duy** - *duydl@uit.edu.vn*
 * ThS. Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
 ## Thông tin sinh viên
-
+* **Tên: Trần Thị Ngọc Thúy
+* **MSSV: 21522664
