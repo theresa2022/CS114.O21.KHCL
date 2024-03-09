@@ -3,5 +3,6 @@
 ## Giới thiệu
 * **Tên môn học**: Máy học - MACHINE LEARNING
 * **Lớp học**: CS114.O21.KHCL
+## Giảng viên hướng dẫn
 * PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
 * ThS. **Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
